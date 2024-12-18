@@ -1,53 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for HTML5 for Windows version 5.6.0">
-  <title>Il Mondo di Ranma e Akane - [Ranma 1/2]</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href=
-  "libs/yui/build/reset-fonts-grids/reset-fonts-grids.css" type=
-  "text/css">
-  <link rel="stylesheet" href="ranma.css" type="text/css">
-  <style type="text/css">
-  body {
-  background-color: #CC0000;
-  color: #FFFFFF;
-  }
-  h4.c1 {text-align: left}
-  </style>
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight=
-"0">
-  <div id="doc3">
-    <div id="bd">
-      <div id="ranmaeakane" class="ranmaeakane"><img src=
-      "images/logo_top_left.gif" width="200" height="270" border=
-      "0" alt="Il Mondo di Ranma e Akane" title=
-      "Il Mondo di Ranma e Akane"></div>
-      <div id="leftmenu" class="leftmenu">
-        <span class="menu_header">Sezioni:</span> <?php
-                        require 'left_menu.php';
-                ?>
-      </div>
-      <div id="logo" class="logo"><img src=
-      "images/logo_top_right.gif" width="188" height="90" border=
-      "0" alt="Il Mondo di Ranma e Akane - [Ranma 1/2]" title=
-      "Il Mondo di Ranma e Akane - [Ranma 1/2]"></div>
-      <div id="mainbody" class="mainbody">
-        <div id="maintext" class="maintext">
-          <div class="pagetitle">
-            Domande sulle Sorgenti
-          </div>
-          <div class="pagecontent">
+<?php
+$_PAGE_TITLE = 'Domande sulle Sorgenti';
+require_once '_header.php';
+?>
             <p>Alcune domande e risposte importanti a proposito
             delle Sorgenti Maledette di Jusenkyo.</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <h4 class="c1">Come diventano "maledette" le
+            <h4 class="mt-5">Come diventano "maledette" le
             sorgenti?</h4>
             <div align="left">
-              <p class="faq_reply">&nbsp;</p>
+
               <p class="faq_reply">Probabilmente quando
               qualcuno/qualcosa "annega" in una sorgente non
               maledetta. Dopodiché, chiunque cade in quella
@@ -61,12 +21,12 @@
               annegata, ma la pozza diventa maledetta. Forse questo
               dipende da qualche cosa di speciale ma non viene
               specificato o indicato.</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <h4>Le persone che subiscono la maledizione sono la
+
+
+              <h4 class="mt-5">Le persone che subiscono la maledizione sono la
               copia della persona/cosa che ha generato la
               maledizione?</h4>
-              <p>&nbsp;</p>
+
               <p class="faq_reply">No. Ranma, Herb e la scimmia
               vengono fuori diverse. Dal momento che i personaggi
               sono dei disegni, è difficile dire, particolarmente
@@ -82,10 +42,10 @@
               assomiglierebbe a Ranma-chan. La pozza di Akane è un
               caso speciale, vedete la domanda su come funzionano
               le pozze.</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <h4>Come funzionano le maledizioni?</h4>
-              <p>&nbsp;</p>
+
+
+              <h4 class="mt-5">Come funzionano le maledizioni?</h4>
+
               <p class="faq_reply">Questa risposta è abbastanza
               difficile perché l'evidenza è parecchio variegata. In
               linea generale potremmo dire che ogni persona,
@@ -110,11 +70,11 @@
               specifica di cambiare l'apparenza di qualcuno in
               quella di Akane, ma il resto (carattere ecc.),
               rimarrebbe probabilmente immutato.</p>
-              <p class="faq_reply">&nbsp;</p>
-              <p class="faq_reply">&nbsp;</p>
+
+
             </div>
-            <h4>Perché è l'acqua fredda a fare il cambiamento?</h4>
-            <p>&nbsp;</p>
+            <h4 class="mt-5">Perché è l'acqua fredda a fare il cambiamento?</h4>
+
             <blockquote>
               <p class="faq_reply">Probabilmente è solo una
               questione di espediente narrativo. È più facile,
@@ -130,10 +90,10 @@
               originali della maledizione. Forse, se fossero state
               sorgenti d'acqua calda, sarebbe funzionato tutto al
               contrario.</p>
-              <p class="faq_reply">&nbsp;</p>
-              <p class="faq_reply">&nbsp;</p>
-              <h4>A quale temperatura deve essere l'acqua?</h4>
-              <p>&nbsp;</p>
+
+
+              <h4 class="mt-5">A quale temperatura deve essere l'acqua?</h4>
+
               <blockquote>
                 <p class="faq_reply">Forse per la trasformazione
                 basta la temperatura ambiente (c.ca 20°C) mentre
@@ -143,10 +103,10 @@
                 limite tra caldo e freddo per la trasformazione non
                 lo sappiamo, forse è la temperatura corporea.</p>
               </blockquote>
-              <p class="faq_reply">&nbsp;</p>
-              <p class="faq_reply">&nbsp;</p>
-              <h4>Quanta acqua serve?</h4>
-              <p>&nbsp;</p>
+
+
+              <h4 class="mt-5">Quanta acqua serve?</h4>
+
               <blockquote>
                 <p class="faq_reply">Molto poca. Per esempio, nel
                 Volume 34 parte 5, Happosai colpisce Ranma con una
@@ -156,21 +116,21 @@
                 quantità d'acqua della sorgente dei gemelli
                 colpisce il bernoccolo di Happosai, facendo uscire
                 fuori un altro bernoccolo.</p>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
-                <h4>Fa differenza quale parte del corpo viene
+
+
+                <h4 class="mt-5">Fa differenza quale parte del corpo viene
                 bagnata?</h4>
-                <p>&nbsp;</p>
+
                 <blockquote>
                   <p class="faq_reply">No (anche se, nel caso di
                   Happosai, l'effetto lo subisce il solo
                   bernoccolo).</p>
                 </blockquote>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
-                <h4>Ranma può essere curato?</h4>
+
+
+                <h4 class="mt-5">Ranma può essere curato?</h4>
                 <blockquote>
-                  <p>&nbsp;</p>
+
                   <p class="faq_reply">Si, è stato detto dalla
                   stessa Takahashi. Ranma e Genma sono stati curati
                   temporaneamente dalla finta acqua di Nanniichuan
@@ -185,13 +145,13 @@
                   potrebbe curare anche Taro, ma lui è contento dei
                   suoi "poteri".</p>
                 </blockquote>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
+
+
               </blockquote>
-              <h4>Perché Ranma e Genma non saltano in altre
+              <h4 class="mt-5">Perché Ranma e Genma non saltano in altre
               sorgenti finché non trovano quella dell'uomo
               affogato?</h4>
-              <p>&nbsp;</p>
+
               <blockquote>
                 <p class="faq_reply">Ovviamente perché la storia
                 sarebbe stata molto meno interessante. Chiunque con
@@ -200,11 +160,11 @@
                 la guida di Jusenkyo non glielo ha detto subito?
                 Loro non l'hanno neanche chiesto.</p>
               </blockquote>
-              <p class="faq_reply">&nbsp;</p>
-              <p class="faq_reply">&nbsp;</p>
-              <h4>Perché Ranma-chan ha i capelli rossi nell'anime e
+
+
+              <h4 class="mt-5">Perché Ranma-chan ha i capelli rossi nell'anime e
               neri nel manga?</h4>
-              <p>&nbsp;</p>
+
               <blockquote>
                 <p class="faq_reply">Probabilmente per "esigenze di
                 copione", è più facile distinguerla da Ranma-kun.
@@ -214,11 +174,11 @@
                 (a colori) la differenza è più evidente. A parte
                 questo, di solito le ragazze rosse hanno una certa
                 reputazione di essere più "frizzanti".</p>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
-                <h4>La personalità di Ranma cambia quando diventa
+
+
+                <h4 class="mt-5">La personalità di Ranma cambia quando diventa
                 una ragazza?</h4>
-                <p>&nbsp;</p>
+
                 <blockquote>
                   <p class="faq_reply">No. Anche quando cerca di
                   comportarsi come tale, si vede. Nessuno dei
@@ -235,12 +195,12 @@
                   modificate dalla particolare sorgente. La maggior
                   parte non cambiano il carattere.</p>
                 </blockquote>
-                <p class="faq_reply">&nbsp;</p>
+
               </blockquote>
-              <p>&nbsp;</p>
-              <h4>Cosa succede se qualcuno cade in una sorgente
+
+              <h4 class="mt-5">Cosa succede se qualcuno cade in una sorgente
               dove sono affogate più creature?</h4>
-              <p>&nbsp;</p>
+
               <blockquote>
                 <p class="faq_reply">Si trasforma in una
                 combinazione delle diverse creature. Taro è stato
@@ -257,11 +217,11 @@
                 quale scompare? La Takahashi si è mai preoccupata
                 delle questioni che scatena? ^____^;;;</p>
               </blockquote>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <h4>Le "versioni trasformate" delle persone,
+
+
+              <h4 class="mt-5">Le "versioni trasformate" delle persone,
               crescono?</h4>
-              <p>&nbsp;</p>
+
               <blockquote>
                 <p class="faq_reply">Si. Taro fu immerso nella
                 sorgente quando era bambino e si trasformava in un
@@ -271,11 +231,11 @@
                 il seno di Ranma-chan è cresciuto. Potrebbe anche
                 darsi che questo cambi da sorgente a sorgente, ma
                 non lo sappiamo.</p>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
-                <h4>Cosa succederebbe se Ranma cascasse in un'altra
+
+
+                <h4 class="mt-5">Cosa succederebbe se Ranma cascasse in un'altra
                 sorgente?</h4>
-                <p>&nbsp;</p>
+
                 <blockquote>
                   <p class="faq_reply">La sorgente dell'uomo
                   affogato curerebbe Ranma e Genma quindi
@@ -286,22 +246,22 @@
                   Sembrerebbe quindi che altre sorgenti si
                   combinino tra loro.</p>
                 </blockquote>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
-                <h4>Se Ranma-chan rimanesse incinta, cosa
+
+
+                <h4 class="mt-5">Se Ranma-chan rimanesse incinta, cosa
                 accadrebbe quando torna uomo?</h4>
-                <p>&nbsp;</p>
+
                 <blockquote>
                   <p class="faq_reply">Probabilmente, il mondo non
                   lo saprà mai ^___^ Non ci troviamo in <em>"Cream
                   Lemon"</em> e nessuno ha mai avuto rapporti
                   sessuali in questa serie.</p>
                 </blockquote>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
-                <h4>I figli subiscono la maledizione dei
+
+
+                <h4 class="mt-5">I figli subiscono la maledizione dei
                 genitori?</h4>
-                <p>&nbsp;</p>
+
                 <blockquote>
                   <p class="faq_reply">Per la maggior parte della
                   serie l'unico caso simile è quello degli uomini
@@ -317,20 +277,20 @@
                   cambiati. Anche in questo caso non sappiamo se il
                   cambiamento era immediato o no.</p>
                 </blockquote>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p>
-                <h4>Se Ryoga e Akane avessero dei bambini, si
+
+
+                <h4 class="mt-5">Se Ryoga e Akane avessero dei bambini, si
                 trasformerebbero in maialini anche loro?</h4>
-                <p>&nbsp;</p>
+
                 <blockquote>
                   <p class="faq_reply">Forse. L'episodio 45 della
                   Nettohen suggerisce che potrebbe accadere, ma si
                   trattava comunque di un sogno.</p>
-                  <p class="faq_reply">&nbsp;</p>
-                  <p class="faq_reply">&nbsp;</p>
-                  <h4>Se Shampoo avesse dei figli, si
+
+
+                  <h4 class="mt-5">Se Shampoo avesse dei figli, si
                   trasformerebbero in gatti?</h4>
-                  <p>&nbsp;</p>
+
                   <blockquote>
                     <p class="faq_reply">Probabilmente no, ma se
                     avesse dei figli sarebbero probabilmente molto
@@ -345,26 +305,11 @@
                     Mint hanno gli artigli e le pupille da
                     animali.</p>
                   </blockquote>
-                  <p class="faq_reply">&nbsp;</p>
+
                 </blockquote>
-                <p class="faq_reply">&nbsp;</p>
+
               </blockquote><a href="faq_main.php" class=
               "backbutton">Ritorna all'Indice delle F.A.Q.</a>
-              <p class="faq_reply">&nbsp;</p>
-            </blockquote><br>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="ft">
-      Grafica, impaginazione e testi sono © di <a href=
-      "mailto:inuyaksa@geocities.com?subject=Ranma%20e%20Akane">"Nibunnoichi"</a>
-      e non possono essere usati senza il consenso dell'autore.<br>
-      <span id="ft2">Personaggi e Nomi sono © Rumiko Takahashi /
-      Shogakukan / Kitty Film e sono usati a solo scopo
-      illustrativo e di recensione, senza alcun fine di
-      lucro.</span>
-    </div>
-  </div>
-</body>
-</html>
+
+            </blockquote>
+<?php require_once '_footer.php'; ?>

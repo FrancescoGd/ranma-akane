@@ -1,29 +1,29 @@
-RANMA 1/2 BATTLE RENAISSANCE FAQ
-Version 1.0 
+RANMA Â½ BATTLE RENAISSANCE FAQ
+Version 1.0
 By-Tu T. Dang Arcadium Operative (tu.dang@m.cc.utah.edu)
 
 Story:
-	From what I can tell of the introduction of the game and the 
-beginning of the story mode, the gang take a trip.  Its a typical day at 
-the Tendo training hall and while everyones chasing everyone else around, 
-Kuno offers them the idea of going on a trip.  (I believe the story line 
-is similar to the Ranma ½ The Movie 2.  But, Im not exactly sure.)  Kuno's 
-family probably bought the island and are building an amusement park 
-there. Then some oni (goblin or Japanese troll) is haunting the island 
-and involves itself with the group.  From here, each character has their 
-own little story that unfolds (for example Ranmas story line is that 
-Akane is kidnapped by the oni and he has to go and rescue her).  
+	From what I can tell of the introduction of the game and the
+beginning of the story mode, the gang take a trip.  Its a typical day at
+the Tendo training hall and while everyones chasing everyone else around,
+Kuno offers them the idea of going on a trip.  (I believe the story line
+is similar to the Ranma ï¿½ The Movie 2.  But, Im not exactly sure.)  Kuno's
+family probably bought the island and are building an amusement park
+there. Then some oni (goblin or Japanese troll) is haunting the island
+and involves itself with the group.  From here, each character has their
+own little story that unfolds (for example Ranmas story line is that
+Akane is kidnapped by the oni and he has to go and rescue her).
 
 
 Game Play and Control:
 
-The game play is very similar to Tekken 2.  
-Each character has the typical moves: 
+The game play is very similar to Tekken 2.
+Each character has the typical moves:
 Right Punch	(RP)
 Left Punch	(LP)
 Right Kick	(RK)
 Left Kick	(LK)
-Some characters can rotate themselves in the z-plane.  
+Some characters can rotate themselves in the z-plane.
 Here are some typical moves for everyone.
 
 Downed Opponent:
@@ -35,19 +35,19 @@ To do certain special attacks certain conditions must be met
 Power Gage Desperation	(PD)  	Your Power meter full to execute this move.
 Life Desperation	(LD)  	Your Life meter flashing to do this move.
 Super Desperation	(SD)	Your Life meter flashing and Power meter full.
-You can fill your Power meter anytime by holding down any attack button.  
-Characters are also able to do taunts that will lower the opponents Power 
-meter.  But taunts will leave your character defenseless.  
+You can fill your Power meter anytime by holding down any attack button.
+Characters are also able to do taunts that will lower the opponents Power
+meter.  But taunts will leave your character defenseless.
 Taunt			(LP+RK)
 
 
 Ranma Saotome
 
 Story:
-	From what I can figure, Akane is kidnapped from the group by the 
-oni.  Of course Ranma has go to save her.  In order to defeat the oni, he 
-must travel around the island destroying special magical markers that 
-will help him defeat and locate the oni.  Of course I cant understand or 
+	From what I can figure, Akane is kidnapped from the group by the
+oni.  Of course Ranma has go to save her.  In order to defeat the oni, he
+must travel around the island destroying special magical markers that
+will help him defeat and locate the oni.  Of course I cant understand or
 read Japanese, so Im only guessing here.
 
 Throws:
@@ -69,7 +69,7 @@ B, RK			Back Flip
 
 Combo Attacks:
 
-LP, RP, RK, LK		3 Punches, Force Punch	
+LP, RP, RK, LK		3 Punches, Force Punch
 LP, RP, LK, RK 		3 Punches, Punch & Elbow Mix
 LP, LP, LK		2 Punches, Kick
 LP, LP, LP		3 Punch Combo
@@ -84,9 +84,9 @@ D, B+RP+LK		SD-Reverse Moko Takabisha
 Akane Tendo
 
 Story:
-	Apparently, the oni has somewhat seduced Ranma away.  Of course, 
-Akane could care less about Ranmas flirtatious attitude, but of course 
-she wont let him go that easily.  Akane seeks out the oni to give a 
+	Apparently, the oni has somewhat seduced Ranma away.  Of course,
+Akane could care less about Ranmas flirtatious attitude, but of course
+she wont let him go that easily.  Akane seeks out the oni to give a
 little payback to the oni and Ranma of course.
 
 Throws:
@@ -110,14 +110,14 @@ LK, RK, RK, LK		2 Dead Leg Kicks, 2 Sweeps
 LP, LP, LP		3 Punch Combo
 LP, RP, LP		3 Punch Combo
 LP, LK			Punch, Kick
-LK, RK, LK, RP		Dead Leg Kicks, Double Lunge Punch, 
+LK, RK, LK, RP		Dead Leg Kicks, Double Lunge Punch,
 
 Ultimate Techniques:
 
 D, F+LK+RK		PD-Tendo Ultimate Technique
 F, D, B+RP		LD-Flame Attack
 F, D, B+RP+LK		SD-Rushing Punch
- 
+
 
 Ryoga Hibiki
 
@@ -151,7 +151,7 @@ Ultimate Techniques:
 D+LP+RP, U		PD-Super Shishi Hoko-dan
 F, D, B+LP+RP		LD-Neck Grapple
 F, D, B+RP+LK		SD-Lost Vengeance
- 
+
 
 Genma Saotome
 
@@ -172,7 +172,7 @@ F, F+RP			Double Punch
 F, F+LP			Hammer Split
 F (hold)+RP		Torpedo
 F (hold)+RK		Low Torpedo
-B, RP			Double Punch Combo				
+B, RP			Double Punch Combo
 RP+RK			Sidestep
 
 Combos:
@@ -186,13 +186,13 @@ Ultimate Techniques:
 DB, F+RP+LK		PD-Rushing Punches
 F, D, B+RP		LD-Panda Hug
 F, D, B+RP+LK		SD-Animal Frenzy
-  
+
 
 Shampoo
 
 Story:
-	Of course, Ranma is shunning Shampoo as usual, but then the oni 
-kidnaps Ranma and takes him away.  Its up to Shampoo to save Ranma and no 
+	Of course, Ranma is shunning Shampoo as usual, but then the oni
+kidnaps Ranma and takes him away.  Its up to Shampoo to save Ranma and no
 one better stand in her way
 
 Throws:
@@ -226,7 +226,7 @@ Ultimate Techniques:
 D, B+LK+RK		PD-Sky Rocket Kick
 F, D, B+LP+RP		LD-Amazon Frenzy
 F, D, B+RP+LK		SD-Spinning Ball Attack
- 
+
 
 Ryu Kumon
 
@@ -257,7 +257,7 @@ Ultimate Techniques:
 
 F, B+LK+RK		PD-Tornado Fury
 F, D, B+RP+LK		SD-Ultimate Army
- 
+
 
 Tattewaki Kuno
 
@@ -328,7 +328,7 @@ F, D, B+RP+LK		SD-Image Shadow Creation
 
 Secrets:
 
-So far nothing.  If anyone knows of any, let me know or post them 
+So far nothing.  If anyone knows of any, let me know or post them
 around.  Thanks.
 
 
@@ -339,7 +339,7 @@ Thanks go out to:
 
 Rumik-Soft and Shokagukan for making this wonderful game.
 Meanbean (bean@aisi.com) for help with the Ultimate Techniques.
-Freddy  (www.aiai.com/~freddy/animepsx) for running an excellent 
+Freddy  (www.aiai.com/~freddy/animepsx) for running an excellent
 anime/PSX page.
 
 ... BamBam on the .net

@@ -1,4 +1,4 @@
-                   Ranma 1/2: Super Battle FAQ v2.5
+                   Ranma ½: Super Battle FAQ v2.5
                  (Ranma Nibunnoichi: Chougi Rambuhen)
 
 ****************************************************************************
@@ -6,7 +6,7 @@ Sorry, no ascii pic. :(
 
 This file can be found at:
  1) ftp.netcom.com in pub/vi/vidgames/faqs
- 2) The Ranma 1/2 Expanded Homepage,
+ 2) The Ranma ½ Expanded Homepage,
     http://www.coe.uncc.edu/~tecardwe/ranma.html
 
     Note: The format of the FAQ may be slightly different at the two sites.
@@ -104,19 +104,19 @@ TABLE OF CONTENTS:
 
     The romanization of the title of this game is "RANMA NIBUNNOICHI: CHOUGI
     RAMBUHEN", Ranma is obviously Ranma's name, "Ni" is 2, "Bun" is parts,
-    "No" is of, "Ichi" is 1, "Nibunnoichi" means "1/2".  "Chougi Rambuhen"
+    "No" is of, "Ichi" is 1, "Nibunnoichi" means "½".  "Chougi Rambuhen"
     Literally means "Super Skill Wild Dance Chapter".  "Super Battle" is
     pretty close to what it means (or so I'm told).  The series the game is
-    based on is called "Ranma 1/2" because Ranma is half male, half female
+    based on is called "Ranma ½" because Ranma is half male, half female
     (See character descriptions for more details.)
 
 1-2 Is there an U.S. release of the game?
 
     Um.. no.  Originally, there was a plan for the game to be brought to the
-    U.S. under the title "Ranma 1/2: Anything Goes Martial Arts". ("Anything
+    U.S. under the title "Ranma ½: Anything Goes Martial Arts". ("Anything
     Goes Martial Arts" is the style of martial arts that Ranma uses.)
     Unfortuantely, it has never been released.  It is rumored that the game
-    was cancelled because Rumiko Takahashi, the artist/author of "Ranma 1/2"
+    was cancelled because Rumiko Takahashi, the artist/author of "Ranma ½"
     was not pleased with the voices of the previous port of the game.
     (This piece of info was provided by our ever lost friend--Ryouga!  I
     don't know what I did, but I've lost your e-mail address, Ryouga...  I
@@ -128,7 +128,7 @@ TABLE OF CONTENTS:
 
 1-3 What are the codes for the game?
 
-    Like any fighting game, Ranma 1/2: Super Battle would just not be
+    Like any fighting game, Ranma ½: Super Battle would just not be
     complete without some codes of its own.  These are ALL of the codes
     in the game.  Apparently, there are NO turbo codes, and unlike its
     predecessor, you can't get a debug screen between fights to change
@@ -288,7 +288,7 @@ TABLE OF CONTENTS:
       fighting games (SF2, MK, SS, etc.).  While throws and grabs are done
       similar to other fighting games, where you push away or towards, and
       an attack button, the important thing in this game is the distance.
-      You can't throw/grab using a certain character because you're too 
+      You can't throw/grab using a certain character because you're too
       close to your opponent, and obviously if you're too far away from
       your opponent.  All the characters have the ability to either throw
       or grab their opponents.  They will have to be further away from
@@ -342,7 +342,7 @@ TABLE OF CONTENTS:
       up.  After approximately 1 second, your life meter will begin to
       flash.  Your character is vulnerable when you press "L".
 
-2-2-2 "Special" 
+2-2-2 "Special"
 
       Special moves with * can be done by pressing "R" if "Special" is
       turned on in the Option mode.  Check "1-4-2 Options" for more info.
@@ -370,17 +370,17 @@ TABLE OF CONTENTS:
  |  /  O- + PUNCH               | RANMA can create a whirlwind with this
  O O                            | technique
 ----------------------------------------------------------------------------
- Moko Takabisha            | Derived from the technique "Roaring Lion 
+ Moko Takabisha            | Derived from the technique "Roaring Lion
 (Fierce Tiger Domineering) | Ball", RANMA can use the "ki" of his pride to
  |  \  -O  + PUNCH         | create a fireball.
  O   O                     |
 ----------------------------------------------------------------------------
  Tenshin Amaguri-Ken    | Yet another technique RANMA learned from SHAMPOO's
 (Imperial Broiled Sweet | grandmother.  "Amaguri Ken" is a combination of
-    Chestnuts Fist)     | speed, strength, and skill.  RANMA delivers 
+    Chestnuts Fist)     | speed, strength, and skill.  RANMA delivers
  tap PUNCH rapidly      | several quick punches with this move.
 ----------------------------------------------------------------------------
- Tumbling kick   | RANMA rolls a full circle on the ground and delivers a 
+ Tumbling kick   | RANMA rolls a full circle on the ground and delivers a
  Y + B or X + A  | low kick.
 ----------------------------------------------------------------------------
  Taunt/Power-up | RANMA hops back and yells, "Yeh, yeh!"
@@ -403,18 +403,18 @@ TABLE OF CONTENTS:
   jump again (if you press up), although there is nothing for him to jump
   off of.  (See the male RANMA for more info on his moves.)
 ----------------------------------------------------------------------------
-*Hiryu Shoten Ha    | A small "whirlwind", which somewhat resembles a  
- (2 sec)  O         | dragon surrounds RANMA, and knocks away anyone who 
+*Hiryu Shoten Ha    | A small "whirlwind", which somewhat resembles a
+ (2 sec)  O         | dragon surrounds RANMA, and knocks away anyone who
     |     |  + KICK | gets in it.
     O               |
 ----------------------------------------------------------------------------
- Moko Takabisha            | It's a fireball.  Unlike a Ryu/Ken fireball, 
-(Fierce Tiger Domineering) | RANMA's Moko Takabisha does not travel a long 
- (2 sec)                   | distance, but may hit twice if you use hard 
+ Moko Takabisha            | It's a fireball.  Unlike a Ryu/Ken fireball,
+(Fierce Tiger Domineering) | RANMA's Moko Takabisha does not travel a long
+ (2 sec)                   | distance, but may hit twice if you use hard
    O-    -O  + PUNCH       | punch.
 ----------------------------------------------------------------------------
  Tenshin Amaguri Ken | Similar to Chun-Li's "Lightning Kick" and E. Honda's
-                     | "Hundred Hand Slap", except he puches instead of 
+                     | "Hundred Hand Slap", except he puches instead of
  tap PUNCH rapidly   | kicks or slaps.
 ----------------------------------------------------------------------------
  Elbow roll  | RANMA rolls on the ground, and ends with a low elbow blow.
@@ -443,11 +443,11 @@ TABLE OF CONTENTS:
   that RYOGA turns into a pig (but knows of all the others in the series who
   change when dowsed with cold water).  RYOGA has a really bad sense of
   direction (Idiot of Directions).
----------------------------------------------------------------------------- 
+----------------------------------------------------------------------------
 *Bakusai-Ten-Ketsu    | A technique used by people who work with rocks to
 (Blasting Point Hole) | remove huge boulders, this technique was taught to
-                      | RYOGA by SHAMPOO's grandmother. RYOGA can find the 
-  |  /  O-  + PUNCH   | right spot and make a rock blow to tiny little 
+                      | RYOGA by SHAMPOO's grandmother. RYOGA can find the
+  |  /  O-  + PUNCH   | right spot and make a rock blow to tiny little
   O O                 | pieces.
 ----------------------------------------------------------------------------
  Shishi Hoko-dan      | A technique used by mine-workers to help clear the
@@ -456,11 +456,11 @@ TABLE OF CONTENTS:
   |  \  -O  + PUNCH   | the user to feel his/her sadness, and thus release
   O   O               | a "heavy" ki.
 ----------------------------------------------------------------------------
- Tanuki Drop   | The tanuki, which is a good luck charm that is usually 
-               | placed in front of stores, is one of the suveniors that 
- (In air)      | RYOGA picked up duringhis travels (he does a lot of 
-    |     + A  | travelling because he's lost all the time).  
-    O          | 
+ Tanuki Drop   | The tanuki, which is a good luck charm that is usually
+               | placed in front of stores, is one of the suveniors that
+ (In air)      | RYOGA picked up duringhis travels (he does a lot of
+    |     + A  | travelling because he's lost all the time).
+    O          |
 ----------------------------------------------------------------------------
  Sliding Sweep  | Exactly what it says.
  X + A          |
@@ -473,7 +473,7 @@ TABLE OF CONTENTS:
  SUPER MOVE           | The completed version of the Shishi Hoko-dan, which
  Shishi Hoko-dan      | RYOGA achieved after he asked AKANE to tell him,
  (complete version)   | "I hate you."  The "heavy" ki is shot upwards, as
-     O                | a pillar, all around RYOGA, and then comes back 
+     O                | a pillar, all around RYOGA, and then comes back
   |  |   + X          | down, hitting a certain radius around RYOGA.
   O                   |
 ============================================================================
@@ -488,7 +488,7 @@ TABLE OF CONTENTS:
   see anything without his glasses.  MOUSSE has a variety of hidden weapons,
   and turns into a duck (or goose) when dowsed with cold water, and turns
   back with hot water (his own fault).
----------------------------------------------------------------------------- 
+----------------------------------------------------------------------------
 *Knife Throw              | MOUSSE is a master of hidden weaponary, and has
  O-  /  |  \  -O  + PUNCH | many things up his sleeves.  He tosses out a lot
     O   O   O             | of knives during his attacks.
@@ -507,8 +507,8 @@ TABLE OF CONTENTS:
  Taunt/Power-up | MOUSSE poses, knives showing in his sleeves, and says,
                 | "Ora o nameru na yo" (Don't screw with me!)
 ============================================================================
- SUPER MOVE           | "Hen's Egg Fist". MOUSSE throws out a series of 
- Keiran Ken           | small, powerful bombs, which are about the size 
+ SUPER MOVE           | "Hen's Egg Fist". MOUSSE throws out a series of
+ Keiran Ken           | small, powerful bombs, which are about the size
  -O  \  |  /  O-  + X | eggs.
       O O O           |
 ============================================================================
@@ -560,7 +560,7 @@ TABLE OF CONTENTS:
 
 
 2-2-3-06 UKYO KUONJI                                       Stage: Loch Ness
-  
+
   UKYO is a friend from RANMA's childhood, they met while RANMA was
   travelling with his father, training their martial arts.  Because of her
   name and of the way she dressed, RANMA thought she was a guy.  UKYO's
@@ -571,7 +571,7 @@ TABLE OF CONTENTS:
   engaged to one of the TENDO girls, GENMA tried to solve the dilemma by
   asking RANMA, "Which do you like better, UKYO or okonomiyaki?"  Being an
   unknowing little kid, RANMA chose okonomiyaki, and UKYO became an abandoned
-  bride.  UKYO swore revenge on the SAOTOME father/son; when they met again, 
+  bride.  UKYO swore revenge on the SAOTOME father/son; when they met again,
   UKYO first challenged RANMA, but upon learning all the facts of the story,
   the obvious fact that UKYO still have feelings for RANMA, and the seemingly
   fact that "RANMA and AKANE don't get along," she decided to keep their
@@ -582,11 +582,11 @@ TABLE OF CONTENTS:
  O   O             |
 ----------------------------------------------------------------------------
 *Pepper Throw     | These explode (?) as they are tossed out.  Hits high.
- |  \  -O  + KICK | 
+ |  \  -O  + KICK |
  O   O            |
 ----------------------------------------------------------------------------
  Flour Bag Throw | UKYO tosses out one flour bags, the bag breaks and the
-                 | flour gives a smokescreen effect, so the opponent can't 
+                 | flour gives a smokescreen effect, so the opponent can't
  Y + B           | move for a short while.  Makes no damage, though.
 ----------------------------------------------------------------------------
  Double Hit  | UKYO performs a turn-around giant spatula attack.
@@ -664,7 +664,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
       O   O           |
    O-  \  |  + PUNCH  |
 ----------------------------------------------------------------------------
- Somersault Kick   | MARIKO does a side flip forward (which avoids most 
+ Somersault Kick   | MARIKO does a side flip forward (which avoids most
  |  /  O-  + KICK  | attacks), and kicks her opponent twice as her feet
  O O               | reach the ground.
 ----------------------------------------------------------------------------
@@ -674,9 +674,9 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
  Taunt/Power-up | MARIKO does a high kick (doesn't hit opponent)... and says,
                 | "Go Go Mariko!"
 ============================================================================
- SUPER MOVE     | "Sea-urchin Bomber".  MARIKO Jumps up and tosses out her 
- Uni Bombaa     | pom-poms (but still has more on her hands).  The pompoms 
- |  /  O-  + X  | reaches about 1/3 of the screen and stops.  It disappears 
+ SUPER MOVE     | "Sea-urchin Bomber".  MARIKO Jumps up and tosses out her
+ Uni Bombaa     | pom-poms (but still has more on her hands).  The pompoms
+ |  /  O-  + X  | reaches about 1/3 of the screen and stops.  It disappears
  O O            | in a while.
 ============================================================================
  Winning Quotes: "V-I-C-T-O-R-Y!  V is the sign for Victory!"
@@ -700,7 +700,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
    O-    -O  + KICK    |
 ----------------------------------------------------------------------------
 *Leaping Headbutt    | GENMA jumps up, using his head and body to attack his
- (2 sec) O           | opponents, (This move has a lot of priority) 
+ (2 sec) O           | opponents, (This move has a lot of priority)
     |    |  + PUNCH  | delivering multiple hits.
     O                |
 ----------------------------------------------------------------------------
@@ -733,7 +733,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
   MARIKO, the cheerleader, but she "dumped" him when she was defeated by
   RANMA.
 ----------------------------------------------------------------------------
- Ko-kuu Zan           | Doing an uppercut motion with his sword (without 
+ Ko-kuu Zan           | Doing an uppercut motion with his sword (without
 (Sky Arc Decaptitaion)| jumping), Kuno sends out a projectile, which almost
  |  \  -O  + PUNCH    | acts like a shield.  The weaker punch, although give
  O   O                | a smaller projectile, goes farther along the screen.
@@ -754,8 +754,8 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
 ============================================================================
  SUPER MOVE    | "Tembatsu da da dadadadada..." (This is the vengeance of
  Cyclone Slash | heaven... and this and this and this and this...) OK, so he
-               | doesn't say this in the game.  Kuno moves forward while 
- |  /  O-  + X | doing 360s and slashing with his sword like crazy.  This 
+               | doesn't say this in the game.  Kuno moves forward while
+ |  /  O-  + X | doing 360s and slashing with his sword like crazy.  This
  O O           | move was originally intended to slice watermelons.
 ============================================================================
  Winning Quotes:  "Watashi no kachi da." (It's my victory.) [audio]
@@ -785,7 +785,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
  (2 sec)               |
    O-    -O  + KICK    |
 ----------------------------------------------------------------------------
-*Poison Rose        | With poison planted in a bouquet of roses, they 
+*Poison Rose        | With poison planted in a bouquet of roses, they
  (2 sec) O          | a good shield for KODACHI (why they don't effect her
     |    |  + PUNCH | is beyond me).
     O               |
@@ -798,7 +798,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
  SUPER MOVE           | "Black Rose Petal Snowfall"
                       | Kodachi twirls around, hitting her opponent with her
  -O  \  |  /  O-  + X | ribbon, whild a lot of black rose petals fall out.
-      O O O           | 
+      O O O           |
 ============================================================================
 
 
@@ -822,7 +822,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
 *Goen (Gojuuen) Satsu | The full name of this move is actually "Happo Goen
  "5 (50) yen kill"    | Satsu".  HAPPOSAI taught this technique to Hinako
                       | when she was really young (and sick), so that she
- |  \  -O  + PUNCH    | would be able to (unknowingly) take out the 
+ |  \  -O  + PUNCH    | would be able to (unknowingly) take out the
  O   O                | opposition on his nurse panty raids.  Hits lower.
 ----------------------------------------------------------------------------
  Goen (Gojuuen) Satsu | Save technique, except this one hits high.
@@ -1057,13 +1057,13 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
 4-1 Revision History
 
     v1.0 (??/??/95) My very first attempt at any FAQ, was gonna start from
-         scratch, but saw a FAQ at the "Ranma 1/2 Expanded Home Page" (no
+         scratch, but saw a FAQ at the "Ranma ½ Expanded Home Page" (no
          mention of the author), which contained a few errors, so I downloaded
          it, and added information about Options, Tag Game, Story Mode,
          Endings, and slightly modified the Special Moves section.
          Information about the Story and Endings VERY incomplete, names of
          moves are also not that great.  It was then sent out to be placed
-         at ftp.netcom.com and the Ranma 1/2 Expanded Home Page.
+         at ftp.netcom.com and the Ranma ½ Expanded Home Page.
 
     v2.0 (04/25/95) Virtually everything in this FAQ was either completely
          new or revised.  Added stuff includes: Table of Contents, meaning
@@ -1105,7 +1105,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
        most invaluable.
 
     Thomas E. Cardwell II <tecardwe@mosaic.uncc.edu>
-       Ranma 1/2 Expanded Home Page.  I also used the "What's what" section
+       Ranma ½ Expanded Home Page.  I also used the "What's what" section
        of the Homepage to find out the names of some of the special moves.
 
     Andy Eddy <vidgames@netcom.com>
@@ -1116,7 +1116,7 @@ Winning Quotes: "Juu-nen hayai de" (You're 10 years too early [to beat me].)
        Holds miscellaneous/The combo dude.
 
     Kevin "The Lai-Lai Boy" Lew <kasumi@eden.com>
-       "Ranma 1/2 Stupid Help Desk"  Corrections, suggestions, and many other
+       "Ranma ½ Stupid Help Desk"  Corrections, suggestions, and many other
        helpful information.  BTW, Kev, virtually all the romanizations in
        this FAQ were done by someone else...  So I can't vouch for the
        validity of the romanization "Jakou-Maneki."

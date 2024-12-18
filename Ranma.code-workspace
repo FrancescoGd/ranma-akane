@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"php.validate.executablePath": "D:/progetti/Ranma/php/php.exe"
+		"php.validate.executablePath": "//furinkan/progetti/Ranma/php/php.exe"
 	}
 }

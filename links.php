@@ -1,49 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for HTML5 for Windows version 5.6.0">
-  <title>Il Mondo di Ranma e Akane - [Ranma 1/2]</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href=
-  "libs/yui/build/reset-fonts-grids/reset-fonts-grids.css" type=
-  "text/css">
-  <link rel="stylesheet" href="ranma.css" type="text/css">
-  <style type="text/css">
-  body {
-  background-color: #CC0000;
-  color: #FFFFFF;
-  }
-  </style>
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight=
-"0">
-  <div id="doc3">
-    <div id="bd">
-      <div id="ranmaeakane" class="ranmaeakane"><img src=
-      "images/logo_top_left.gif" width="200" height="270" border=
-      "0" alt="Il Mondo di Ranma e Akane" title=
-      "Il Mondo di Ranma e Akane"></div>
-      <div id="leftmenu" class="leftmenu">
-        <span class="menu_header">Sezioni:</span> <?php
-                        require 'left_menu.php';
-                ?>
-      </div>
-      <div id="logo" class="logo"><img src=
-      "images/logo_top_right.gif" width="188" height="90" border=
-      "0" alt="Il Mondo di Ranma e Akane - [Ranma 1/2]" title=
-      "Il Mondo di Ranma e Akane - [Ranma 1/2]"></div>
-      <div id="mainbody" class="mainbody">
-        <div id="maintext" class="maintext">
-          <div class="pagetitle">
-            Link
-          </div>
-          <div class="pagecontent">
+<?php
+$_PAGE_TITLE = 'Link,';
+require_once '_header.php';
+?>
             <h2>Siti in cui sono coinvolto</h2>
             <p>Innanzitutto un po' di pubblicità non troppo occulta
             :D Questi sono altri siti gestiti da me relativi ad
             attività o gruppi in cui sono coinvolto.</p>
-            <p>&nbsp;</p>
+
             <table border="0" cellpadding="2" cellspacing="10">
               <tr>
                 <td width="185" align="center" valign="middle">
@@ -84,16 +47,16 @@
                 </td>
               </tr>
             </table>
-            <p>&nbsp;</p>
+
             <h2>Siti di un certo interesse</h2>
             <p>Altre risorse interessanti sia su
             <strong>Ranma</strong> che su <strong>Rumiko
             Takahashi</strong> in generale.</p>
-            <p>&nbsp;</p>
+
             <ul>
               <li>
                 <a href="http://www.furinkan.com" target=
-                "_blank">www.furinkan.com</a> (Inglese)
+                "_blank">www.furinkan.com</a> (Inglese, senza dubbio il più completo su Rumiko Takahashi)
               </li>
               <li>
                 <a href="http://www.rumiko-takahashi.com/" target=
@@ -116,7 +79,7 @@
                 "_blank">Ranma Cels Gallery</a> (Inglese)
               </li>
             </ul>
-            <p>&nbsp;</p>
+
             <h2>Altri Siti su Ranma</h2>
             <p>Nella vecchia versione del sito avevo una raccolta
             di un centinaio e forse più indirizzi... molti nel
@@ -131,7 +94,7 @@
             magari è difficile trovare sui "moderni" siti di
             Fanfics, ma possono risultare interessanti ancora
             oggi.</p>
-            <p>&nbsp;</p>
+
             <ul>
               <li>
                 <a target="_blank" href=
@@ -191,7 +154,7 @@
               <li>
                 <a target="_blank" href=
                 "http://www.geocities.com/Tokyo/Pagoda/8264/ranma.html">
-                Ashfae's Ranma 1/2 Page</a>
+                Ashfae's Ranma ½ Page</a>
               </li>
               <li>
                 <a target="_blank" href=
@@ -220,7 +183,7 @@
               </li>
               <li>
                 <a target="_blank" href=
-                "http://move.to/dynasty/">Dynasty: A Ranma 1/2 Fan
+                "http://move.to/dynasty/">Dynasty: A Ranma ½ Fan
                 Fiction</a>
               </li>
               <li>
@@ -251,7 +214,7 @@
               <li>
                 <a target="_blank" href=
                 "http://www.geocities.com/Tokyo/Harbor/6508/">Kunobabies
-                Ranma 1/2 FanFiction</a>
+                Ranma ½ FanFiction</a>
               </li>
               <li>
                 <a target="_blank" href=
@@ -370,7 +333,7 @@
               <li>
                 <a target="_blank" href=
                 "http://www.geocities.com/Tokyo/Shrine/5907/">Mousse's
-                Ranma 1/2 OAV and TV Sounds</a>
+                Ranma ½ OAV and TV Sounds</a>
               </li>
               <li>
                 <a target="_blank" href=
@@ -385,7 +348,7 @@
               <li>
                 <a target="_blank" href=
                 "http://www.geocities.com/Tokyo/Palace/6105/Rwav.htm">
-                Ranma 1/2 Wavs</a>
+                Ranma ½ Wavs</a>
               </li>
               <li>
                 <a target="_blank" href=
@@ -395,7 +358,7 @@
               <li>
                 <a target="_blank" href=
                 "http://members.tripod.com/%7EKaliesto/Ranma.html">Calisto's
-                Top Ten Ranma 1/2 Rejected Lines</a>
+                Top Ten Ranma ½ Rejected Lines</a>
               </li>
               <li>
                 <a target="_blank" href=
@@ -415,7 +378,7 @@
               <li>
                 <a target="_blank" href=
                 "http://www.geocities.com/Tokyo/Island/9583/index.htm">
-                The Ranma 1/2 Anything-Goes Battle Arena</a>
+                The Ranma ½ Anything-Goes Battle Arena</a>
               </li>
               <li>
                 <a target="_blank" href=
@@ -438,22 +401,4 @@
                 Fan Club and Mailing List</a>
               </li>
             </ul>
-            <p><br>
-            <br></p>
-            <p>&nbsp;</p><br>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="ft">
-      Grafica, impaginazione e testi sono © di <a href=
-      "mailto:inuyaksa@geocities.com?subject=Ranma%20e%20Akane">"Nibunnoichi"</a>
-      e non possono essere usati senza il consenso dell'autore.<br>
-      <span id="ft2">Personaggi e Nomi sono © Rumiko Takahashi /
-      Shogakukan / Kitty Film e sono usati a solo scopo
-      illustrativo e di recensione, senza alcun fine di
-      lucro.</span>
-    </div>
-  </div>
-</body>
-</html>
+<?php require_once '_footer.php'; ?>

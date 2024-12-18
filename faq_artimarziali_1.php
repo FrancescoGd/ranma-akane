@@ -1,51 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for HTML5 for Windows version 5.6.0">
-  <title>Il Mondo di Ranma e Akane - [Ranma 1/2]</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href=
-  "libs/yui/build/reset-fonts-grids/reset-fonts-grids.css" type=
-  "text/css">
-  <link rel="stylesheet" href="ranma.css" type="text/css">
-  <style type="text/css">
-  body {
-  background-color: #CC0000;
-  color: #FFFFFF;
-  }
-  </style>
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight=
-"0">
-  <div id="doc3">
-    <div id="bd">
-      <div id="ranmaeakane" class="ranmaeakane"><img src=
-      "images/logo_top_left.gif" width="200" height="270" border=
-      "0" alt="Il Mondo di Ranma e Akane" title=
-      "Il Mondo di Ranma e Akane"></div>
-      <div id="leftmenu" class="leftmenu">
-        <p><span class="menu_header">Sezioni:</span> <?php
-                        require 'left_menu.php';
-                ?></p>
-      </div>
-      <div id="logo" class="logo"><img src=
-      "images/logo_top_right.gif" width="188" height="90" border=
-      "0" alt="Il Mondo di Ranma e Akane - [Ranma 1/2]" title=
-      "Il Mondo di Ranma e Akane - [Ranma 1/2]"></div>
-      <div id="mainbody" class="mainbody">
-        <div id="maintext" class="maintext">
-          <div class="pagetitle">
-            Tecniche Principali
-          </div>
-          <div class="pagecontent">
+<?php
+$_PAGE_TITLE = 'Tecniche Principali';
+require_once '_header.php';
+?>
             <h2>Saotome Ranma</h2>
-            <p>&nbsp;</p>
-            <h4>Neko-ken</h4>
-            <p>&nbsp;</p>
+
+            <h4 class="mt-5">Neko-ken</h4>
+
             <p class="faq_reply"><strong>Pugno del
             Gatto</strong></p>
-            <p>&nbsp;</p>
+
             <p class="faq_reply">Un giorno Genma, per far diventare
             più forte e coraggioso suo figlio Ranma, lo sottopose
             alla "terribile prova dei gatti", ricoprendolo di cibo
@@ -60,18 +23,18 @@
             completamente fuori di testa comincia a comportarsi e
             pensare come un gatto, graffiando e miagolando con
             forza e ferocia.</p>
-            <p class="faq_reply">&nbsp;</p>
+
             <p class="faq_reply"><span class=
             "highlight_section"><strong>Apparizione:</strong></span>
             Nettohen episodio 2. Volume 5 parte 2.</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <h4>Kachu tenshin amaguri-ken</h4>
-            <p>&nbsp;</p>
+
+
+            <h4 class="mt-5">Kachu tenshin amaguri-ken</h4>
+
             <p class="faq_reply"><strong>Pugno delle Castagne Dolci
             Cotte a Fuoco Vivo</strong></p>
             <blockquote>
-              <p>&nbsp;</p>
+
               <p class="faq_reply">È l'arte di colpire così
               velocemente, che uno potrebbe afferrare a mani nude
               delle castagne mentre stanno arrostendo sul fuoco
@@ -81,18 +44,18 @@
               nuovamente toccare l'acqua calda. Ranma usa questa
               tecnica per colpire il suo avversario tantissime
               volte e molto velocemente.</p>
-              <p class="faq_reply">&nbsp;</p>
+
               <p class="faq_reply"><span class=
               "highlight_section"><strong>Apparizione:</strong></span>
               Nettohen episodio 4. Volume 5 parte 10.</p>
             </blockquote>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <h4>Hiryu shoten-ha</h4>
-            <p>&nbsp;</p>
+
+
+            <h4 class="mt-5">Hiryu shoten-ha</h4>
+
             <p class="faq_reply"><strong>Colpo dell'Ascensione del
             Drago Volante</strong></p>
-            <p>&nbsp;</p>
+
             <blockquote>
               <p class="faq_reply">La Tecnica del Colpo
               dell'Uragano dello Joketsuzoku. Si incastra il
@@ -105,17 +68,17 @@
               speciale di Happosai fa perdere a Ranma tutte le sue
               forze, Obaba gli insegna questa tecnica per
               difendersi.</p>
-              <p class="faq_reply">&nbsp;</p>
+
               <p class="faq_reply"><span class=
               "highlight_section"><strong>Apparizione:</strong></span>
               Nettohen episodio 49. Volume 13 parte 4.</p>
-              <p class="faq_reply">&nbsp;</p>
-              <p class="faq_reply">&nbsp;</p>
-              <h4>Moko takabisha</h4>
-              <p>&nbsp;</p>
+
+
+              <h4 class="mt-5">Moko takabisha</h4>
+
               <p class="faq_reply"><strong>Dominio della Tigre
               Feroce</strong></p>
-              <p>&nbsp;</p>
+
               <blockquote>
                 <p class="faq_reply">Ranma mette a punto questa
                 tecnica per contrastare la Shishi Hokodan di Ryoga.
@@ -123,39 +86,39 @@
                 prendere energia dallo scoraggiamento e dai
                 sentimenti negativi, la prende dalla fiducia e dai
                 sentimenti positivi.</p>
-                <p>&nbsp;</p>
+
                 <p class="faq_reply"><span class=
                 "highlight_section"><strong>Apparizione:</strong></span>
                 Nettohen episodio 124. Volume 20 parte 5.</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <h2>Hibiki Ryoga</h2>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <h4>Bakusai-ten-ketsu</h4>
-                <p>&nbsp;</p>
+
+
+                <h2 class="mt-5">Hibiki Ryoga</h2>
+
+
+                <h4 class="mt-5">Bakusai-ten-ketsu</h4>
+
                 <p class="faq_reply"><strong>Buco del Punto
                 dell'Esplosione</strong></p>
-                <p>&nbsp;</p>
+
                 <blockquote>
                   <p class="faq_reply">Una tecnica di Joketsuzoku
                   per far esplodere le rocce, colpendole in un
                   punto specifico con un dito. Obaba insegna questa
                   tecnica a Ryoga per offrire una nuova sfida a
                   Ranma.</p>
-                  <p>&nbsp;</p>
+
                   <p class="faq_reply"><span class=
                   "highlight_section"><strong>Apparizione:</strong></span>
                   Nettohen episodio 10. Volume 6 parte 5.</p>
                 </blockquote>
               </blockquote>
-              <p class="faq_reply">&nbsp;</p>
-              <p class="faq_reply">&nbsp;</p>
-              <h4>Shishi hoko-dan</h4>
-              <p>&nbsp;</p>
+
+
+              <h4 class="mt-5">Shishi hoko-dan</h4>
+
               <p class="faq_reply"><strong>Colpo del Ruggito del
               Leone</strong></p>
-              <p>&nbsp;</p>
+
               <blockquote>
                 <p class="faq_reply">La tecnica consiste nel
                 proiettare lo spirito combattivo in una sfera di
@@ -166,22 +129,22 @@
                 tecnica da un rotolo che gli è stato dato da un
                 ingengnere civile, che usava questa tecnica per
                 scavare.</p>
-                <p>&nbsp;</p>
+
                 <p class="faq_reply"><span class=
                 "highlight_section"><strong>Apparizione:</strong></span>
                 Nettohen episodio 123. Volume 20 parte 1.</p>
               </blockquote>
-              <p class="faq_reply">&nbsp;</p>
-              <p class="faq_reply">&nbsp;</p>
-              <h2>Happosai</h2>
+
+
+              <h2 class="mt-5">Happosai</h2>
             </blockquote>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <h4>Happo dai-ka-rin</h4>
-            <p>&nbsp;</p>
+
+
+            <h4 class="mt-5">Happo dai-ka-rin</h4>
+
             <p class="faq_reply"><strong>La Grande Aura
             Risplendente di Happo</strong></p>
-            <p>&nbsp;</p>
+
             <blockquote>
               <p class="faq_reply">È la tecnica segreta di
               Happosai, scritta molto tempo fa su un rotolo e
@@ -191,20 +154,20 @@
               Questa tecnica, che è una delle sue preferite, è
               sorprendentemente semplice: lanciare delle bombe con
               la miccia accesa!</p>
-              <p>&nbsp;</p>
+
               <p class="faq_reply"><span class=
               "highlight_section"><strong>Apparizione:</strong></span>
               Nettohen episodio 26. Volume 11 parte 4.</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <h2>Ninomiya Hinako</h2>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <h4>Happo goen-satsu</h4>
-              <p>&nbsp;</p>
+
+
+              <h2 class="mt-5">Ninomiya Hinako</h2>
+
+
+              <h4 class="mt-5">Happo goen-satsu</h4>
+
               <p class="faq_reply"><strong>Colpo dei 5 yen di
               Happo</strong></p>
-              <p>&nbsp;</p>
+
               <blockquote>
                 <p class="faq_reply">La tecnica consiste nel
                 "risucchiare" lo spirito combattivo dell'avversario
@@ -216,30 +179,14 @@
                 quali una è la Happo gojuuen-satsu, cioè il "Colpo
                 dei 50 yen di Happo". Hinako cerca anche di
                 sperimentarne altre varianti.</p>
-                <p>&nbsp;</p>
+
                 <p class="faq_reply"><span class=
                 "highlight_section"><strong>Apparizione:</strong></span>
                 Volume 25 parte 3.</p>
-                <p class="faq_reply">&nbsp;</p>
-                <p class="faq_reply">&nbsp;</p><a href=
+
+                <a href=
                 "faq_main.php" class="backbutton">Ritorna
                 all'Indice delle F.A.Q.</a>
               </blockquote>
-              <p>&nbsp;</p>
-            </blockquote><br>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="ft">
-      Grafica, impaginazione e testi sono © di <a href=
-      "mailto:inuyaksa@geocities.com?subject=Ranma%20e%20Akane">"Nibunnoichi"</a>
-      e non possono essere usati senza il consenso dell'autore.<br>
-      <span id="ft2">Personaggi e Nomi sono © Rumiko Takahashi /
-      Shogakukan / Kitty Film e sono usati a solo scopo
-      illustrativo e di recensione, senza alcun fine di
-      lucro.</span>
-    </div>
-  </div>
-</body>
-</html>
+            </blockquote>
+<?php require_once '_footer.php'; ?>

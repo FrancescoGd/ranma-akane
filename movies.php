@@ -1,44 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for HTML5 for Windows version 5.6.0">
-  <title>Il Mondo di Ranma e Akane - [Ranma 1/2]</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href=
-  "libs/yui/build/reset-fonts-grids/reset-fonts-grids.css" type=
-  "text/css">
-  <link rel="stylesheet" href="ranma.css" type="text/css">
-  <style type="text/css">
-  body {
-  background-color: #CC0000;
-  color: #FFFFFF;
-  }
-  </style>
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight=
-"0">
-  <div id="doc3">
-    <div id="bd">
-      <div id="ranmaeakane" class="ranmaeakane"><img src=
-      "images/logo_top_left.gif" width="200" height="270" border=
-      "0" alt="Il Mondo di Ranma e Akane" title=
-      "Il Mondo di Ranma e Akane"></div>
-      <div id="leftmenu" class="leftmenu">
-        <span class="menu_header">Sezioni:</span> <?php
-                        require 'left_menu.php';
-                ?>
-      </div>
-      <div id="logo" class="logo"><img src=
-      "images/logo_top_right.gif" width="188" height="90" border=
-      "0" alt="Il Mondo di Ranma e Akane - [Ranma 1/2]" title=
-      "Il Mondo di Ranma e Akane - [Ranma 1/2]"></div>
-      <div id="mainbody" class="mainbody">
-        <div id="maintext" class="maintext">
-          <div class="pagetitle">
-            I Film
-          </div>
-          <div class="pagecontent">
+<?php
+$_PAGE_TITLE = 'I Film';
+require_once '_header.php';
+?>
             <p>Esistono al momento tre lungometraggi dedicati al
             nostro Ranma. Il terzo film, è al centro di una sorta
             di dibattito tra gli otaku: alcuni dicono che è
@@ -46,136 +9,131 @@
             un OAV. Praticamente hanno ragione entrambi. Infatti,
             dal momento che è uscito nelle sale cinematografiche,
             possiamo classificarlo come film. La sua durata di soli
-            30 minuti lo configura invece come OAV.</p>
+            30 minuti lo configura invece più come OAV.</p>
             <p>In Italia sono stati importati e tradotti tutti,
             sempre dalla Dynamic, con lo stesso doppiaggio della
-            loro edizione della serie tv ed in versione
-            integrale.</p>
-            <p>&nbsp;</p>
-            <h2>Ranma ½ - The Movie 1</h2>
-            <h3>Chugoku Nekonron daikessen! Okite yaburi no gekito
-            hen</h3>
-            <p align="center">&nbsp;</p>
-            <p align="center"><strong>(La Battaglia Decisiva nel
-            Nekonron, Cina! - Una Battaglia per Sfidare le
-            Regole)</strong></p>
-            <p align="center">&nbsp;</p>
-            <table border="0" cellpadding="0" cellspacing="0"
-            class="datatable">
-              <tr>
-                <th scope="row">Titolo Italiano</th>
-                <td><strong>Le Sette Divinità della
-                Fortuna</strong></td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Volume Manga</th>
-                <td>Non appare nel manga</td>
-              </tr>
-              <tr>
-                <th scope="row">Durata</th>
-                <td>74 minuti</td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Anno</th>
-                <td>1993</td>
-              </tr>
-              <tr>
-                <th scope="row">Canzone di Chiusura</th>
-                <td>It's Love</td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Cantante/Gruppo</th>
-                <td>Rabbit</td>
-              </tr>
-            </table>
-            <p>&nbsp;</p>
-            <h2>Ranma ½ - The Movie 2</h2>
-            <h3>Kessen Tougenkyou! Hanayome o torimodose!!</h3>
-            <p>&nbsp;</p>
-            <p align="center"><strong>(La Battaglia Decisiva nel
-            Tougenkyou! Riportiamo Indietro le
-            Spose!!)</strong></p>
-            <p align="center">&nbsp;</p>
-            <table border="0" cellpadding="0" cellspacing="0"
-            class="datatable">
-              <tr>
-                <th scope="row">Titolo Italiano</th>
-                <td><strong>La Sposa dell'Isola delle
-                Illusioni</strong></td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Volume Manga</th>
-                <td>Non appare nel manga</td>
-              </tr>
-              <tr>
-                <th scope="row">Durata</th>
-                <td>60 minuti</td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Anno</th>
-                <td>1993</td>
-              </tr>
-              <tr>
-                <th scope="row">Canzone di Chiusura</th>
-                <td>Shudai-ka "A piece of love"</td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Cantante/Gruppo</th>
-                <td>Picasso</td>
-              </tr>
-            </table>
-            <p>&nbsp;</p>
-            <h2>Ranma ½ - The Movie 3</h2>
-            <h3>Cho-Musabetsu Kessen! Ranma Chiimu vs Densetsu no
-            Houou</h3>
-            <p>&nbsp;</p>
-            <p align="center"><strong>(L'Indiscriminata Battaglia
-            Decisiva! La Squadra di Ranma contro la Leggendaria
-            Fenice)</strong></p>
-            <p align="center">&nbsp;</p>
-            <table border="0" cellpadding="0" cellspacing="0"
-            class="datatable">
-              <tr>
-                <th scope="row">Titolo Italiano</th>
-                <td><strong>Ranma Contro la Leggendaria
-                Fenice</strong></td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Volume Manga</th>
-                <td>28 parte 1 - 29 parte 2</td>
-              </tr>
-              <tr>
-                <th scope="row">Durata</th>
-                <td>30 minuti</td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Anno</th>
-                <td>1993</td>
-              </tr>
-              <tr>
-                <th scope="row">Canzone di Chiusura</th>
-                <td>&nbsp;</td>
-              </tr>
-              <tr class="even">
-                <th scope="row">Cantante/Gruppo</th>
-                <td>&nbsp;</td>
-              </tr>
-            </table>
-            <p align="center">&nbsp;</p>
-            <p>&nbsp;</p><br>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="ft">
-      Grafica, impaginazione e testi sono © di <a href=
-      "mailto:inuyaksa@geocities.com?subject=Ranma%20e%20Akane">"Nibunnoichi"</a>
-      e non possono essere usati senza il consenso dell'autore.<br>
-      <span id="ft2">Personaggi e Nomi sono © Rumiko Takahashi /
-      Shogakukan / Kitty Film e sono usati a solo scopo
-      illustrativo e di recensione, senza alcun fine di
-      lucro.</span>
-    </div>
-  </div>
-</body>
-</html>
+            loro edizione della serie tv ed in versione integrale.</p>
+
+            <div class="card m-3 mb-3 border-danger">
+              <div class="card-header volume-card-header text-center">中国寝崑崙大決戦！掟やぶりの激闘篇！！</div>
+              <div class="card-body">
+                <div class="card-title">Chugoku Nekonron daikessen! Okite yaburi no gekito hen</div>
+                <div class="card-subtitle mb-2 text-body-secondary">La Battaglia Decisiva nel Nekonron, Cina! - Una Battaglia per Sfidare le Regole</div>
+                <p class="card-text">
+                  <table class="table table-striped table-sm table-responsive">
+                    <tbody>
+                      <tr>
+                        <th scope="row">Titolo Italiano</th>
+                        <td><strong>Le Sette Divinità della Fortuna</strong></td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Volume Manga</th>
+                        <td>Non appare nel manga</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Durata</th>
+                        <td>74 minuti</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Anno</th>
+                        <td>1993</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Tema Musicale</th>
+                        <td>主題歌 (It's Love)</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Cantante / Gruppo</th>
+                        <td>Rabbit</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </p>
+              </div>
+            </div>
+
+            <div class="card m-3 mb-3 border-danger">
+              <div class="card-header volume-card-header text-center">決戦桃源郷!花嫁を奪りもどせ！！</div>
+              <div class="card-body">
+                <div class="card-title">Kessen Tougenkyou! Hanayome o torimodose!!</div>
+                <div class="card-subtitle mb-2 text-body-secondary">La Battaglia Decisiva nel Tougenkyou! Riportiamo Indietro la Sposa!!</div>
+                <p class="card-text">
+                  <table class="table table-striped table-sm table-responsive">
+                    <tbody>
+                      <tr>
+                        <th scope="row">Titolo Italiano</th>
+                        <td><strong>La Sposa dell'Isola delle Illusioni</strong></td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Volume Manga</th>
+                        <td>Non appare nel manga</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Durata</th>
+                        <td>60 minuti</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Anno</th>
+                        <td>1993</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Tema Musicale</th>
+                        <td>Shudai-ka "A piece of love" (in realtà scritto in romaji anche nell'originale)</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Cantante/Gruppo</th>
+                        <td>Picasso</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </p>
+              </div>
+            </div>
+
+            <div class="card m-3 mb-3 border-danger">
+              <div class="card-header volume-card-header text-center">超無差別決戦! 乱馬チームVS伝説の鳳凰</div>
+              <div class="card-body">
+                <div class="card-title">Cho-Musabetsu Kessen! Ranma Chiimu vs Densetsu no Houou</div>
+                <div class="card-subtitle mb-2 text-body-secondary">L'Indiscriminata Battaglia Decisiva! La Squadra di Ranma contro la Leggendaria Fenice</div>
+                <p class="card-text">
+                  <table class="table table-striped table-sm table-responsive">
+                    <tbody>
+                      <tr>
+                        <th scope="row">Titolo Italiano</th>
+                        <td><strong>Ranma Contro la Leggendaria Fenice</strong></td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Volume Manga</th>
+                        <td>28 parte 1 - 29 parte 2</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Durata</th>
+                        <td>30 minuti</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Anno</th>
+                        <td>1993</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Tema Musicale - Apertura</th>
+                        <td>終わらない夏休み (Owaranai Natsu Yasumi, <em>"Vacanza estiva senza fine"</em>)</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Cantante/Gruppo</th>
+                        <td>Picasso</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Tema Musicale - Chiusura</th>
+                        <td>嘘つき (Usotsuki, <em>"Bugiarda"</em>)</td>
+                      </tr>
+                      <tr>
+                        <th scope="row">Cantante/Gruppo</th>
+                        <td>DoCo</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </p>
+              </div>
+            </div>
+
+<?php require_once '_footer.php'; ?>

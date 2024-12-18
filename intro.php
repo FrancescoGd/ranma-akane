@@ -1,46 +1,7 @@
-<!DOCTYPE html>
-<!--last modified on Tuesday, July 20, 1999 11:36 AM -->
-<html>
-<!-- DW6 -->
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for HTML5 for Windows version 5.6.0">
-  <title>Ranma 1/2 - Introduzione</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href=
-  "libs/yui/build/reset-fonts-grids/reset-fonts-grids.css" type=
-  "text/css">
-  <link rel="stylesheet" href="ranma.css" type="text/css">
-  <style type="text/css">
-  <!--
-  .style2 {font-size: 0.9em}
-  -->
-  </style>
-</head>
-<body bgcolor="#CC0000" text="#FFFFFF" leftmargin="0" topmargin="0"
-marginwidth="0" marginheight="0">
-  <div id="doc3">
-    <div id="bd">
-      <div id="ranmaeakane" class="ranmaeakane"><img src=
-      "images/logo_top_left.gif" width="200" height="270" border=
-      "0" alt="Il Mondo di Ranma e Akane" title=
-      "Il Mondo di Ranma e Akane"></div>
-      <div id="leftmenu" class="leftmenu">
-        <span class="menu_header">Sezioni:</span> <?php
-                require 'left_menu.php';
-            ?>
-      </div>
-      <div id="logo" class="logo"><img src=
-      "images/logo_top_right.gif" width="188" height="90" border=
-      "0" alt="Il Mondo di Ranma e Akane - [Ranma 1/2]" title=
-      "Il Mondo di Ranma e Akane - [Ranma 1/2]"></div>
-      <div id="mainbody" class="mainbody">
-        <div id="maintext" class="maintext">
-          <div class="pagetitle">
-            <p class="TitoloPag" align="left">Sono Ranma Saotome...
-            scusate...</p>
-          </div>
-          <div class="pagecontent">
+<?php
+$_PAGE_TITLE = 'Sono Ranma Saotome... scusate...';
+require_once '_header.php';
+?>
             <p>Sono più o meno queste le parole con cui Ranma si
             presenta alla famiglia Tendo e ci fanno capire fin da
             subito che la convivenza tra i Saotome ed i Tendo sarà
@@ -50,8 +11,8 @@ marginwidth="0" marginheight="0">
             prima apparizione è in versione femminile) esordisce
             strillando mentre si insegue e si picchia col
             padre-panda che vuole trascinarlo a conoscere la sua
-            "nuova fidanzata" Akane Tendo.</p>
-            <p><strong>Ranma 1/2</strong> è senza dubbio
+            "nuova fidanzata".</p>
+            <p><strong>Ranma ½</strong>  (らんま⁠ 1/2 in Giapponese) è senza dubbio
             l'<strong>OPERA</strong> che preferisco in assoluto,
             sia tra tutte quelle create da <em>Rumiko
             Takahashi</em>, sia in senso più generale. La cosa che
@@ -70,220 +31,87 @@ marginwidth="0" marginheight="0">
             tecnica sperimenterà Ranma nel prossimo numero per
             sconfiggere chissà quale strano avversario (e ce ne
             sono di personaggi strani!), ed in cui tutti vogliamo
-            sapere come andrà a finire il rapporto tra Ranma ed
+            sapere come si svilupperà il rapporto tra Ranma ed
             Akane.</p>
-            <p>Secondo me, l'autrice ha centrato in pieno
+            <p class="lead">Secondo me, l'autrice ha centrato in pieno
             l'obiettivo.</p>
             <h2>L'inizio</h2>
-            <p>&nbsp;</p>
-            <p class="citazione">"Un giorno, Soun Tendo, chiama le
-            sue tre figlie dicendogli che una di loro dovrà essere
-            <em>iinazuke</em> (fidanzata) con Ranma, il figlio del
-            suo migliore amico. Al povero Soun però quasi prende un
-            colpo quando finalmente arriva Ranma che sembra essere
-            una ragazza. Si scopre presto che Ranma è invece
-            realmente un ragazzo, ma è stato colpito da una
-            maledizione che lo fa diventare una ragazza quando
-            viene bagnato dall'acqua fredda. L'acqua calda lo fa
-            invece tornare normale. Nabiki e Kasumi, scelgono
-            immediatamente Akane come iinazuke perché "lei odia i
-            ragazzi e Ranma è un ragazzo solo a metà". A Ranma non
-            piace Akane perché la considera violenta e "per niente
-            carina". Ad Akane invece non è per niente simpatico
-            Ranma, poiché l'ha battuta in un combattimento di arti
-            marziali (anche se Ranma era una ragazza durante quella
-            sfida), e mostra i suoi sentimenti sbattendo un tavolo
-            in testa a Ranma. Un meraviglioso inizio per una
-            bellissima storia d'amore".</p>
-            <p>&nbsp;</p>
-            <p>(tradotto da <em>"Anime Pocket Guide"</em> di
-            <em>Alan Takahashi</em>)</p>
-            <p>&nbsp;</p>
-            <p>Altre informazioni prelevate dalla stessa fonte (che
-            peraltro raccomando!):</p>
-            <p>&nbsp;</p>
-            <table width="50%" border="0" align="center"
-            cellpadding="2" cellspacing="2" summary=
-            "Informazioni varie sulla Serie" class="datatable">
-              <tr>
-                <th scope="row">Genere</th>
-                <td colspan="2">Commedia Romantica (qui mi permetto
-                di aggiungere che "commedia romantica" è un po'
-                riduttivo nei confronti di Ranma)</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr>
-                <th scope="row">Cast</th>
-                <td>
-                  <div align="center">
-                    <strong>Personaggio</strong>
-                  </div>
-                </td>
-                <td>
-                  <div align="center">
-                    <strong>Doppiatore</strong>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Ranma Saotome (kun)</td>
-                <td>Kappei Yamaguchi</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Ranma Saotome (chan)</td>
-                <td>Megumi Hayashibara</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Akane Tendo</td>
-                <td>Noriko Hidaka</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Kasumi Tendo</td>
-                <td>Kikuko Inoue</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Nabiki Tendo</td>
-                <td>Minami Takayama</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Shampoo</td>
-                <td>Rei Sakuma</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Ukyo Kuonji</td>
-                <td>Hiromi Tsuru</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Ryoga Hibiki</td>
-                <td>Kouichi Yamadera</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Happosai</td>
-                <td>Ichiroo Nagai</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Tatewaki Kuno</td>
-                <td>Hirotaka Suzuoki</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Kodachi Kuno</td>
-                <td>Saeko Shimazu</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Sasuke Sarugakure</td>
-                <td>Shigeru Chiba</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Mikado Sanzenin</td>
-                <td>Kazuhiko Inouye</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Azusa Shiratori</td>
-                <td>Naoko Matsui</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Hikaru Gosunkugi</td>
-                <td>Issei Futamata</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td bgcolor="#EFEFEF">Daisuke</td>
-                <td>Takendo Koyasu</td>
-              </tr>
-              <tr>
-                <th scope="row">&nbsp;</th>
-                <td colspan="2">&nbsp;</td>
-              </tr>
-              <tr>
-                <th scope="row">Rating</th>
-                <td colspan="2">Raccomandato!</td>
-              </tr>
-            </table>
-            <p>&nbsp;</p>
-            <h2>L'introduzione Narrata</h2>
+            <figure class="mx-5">
+              <blockquote class="blockquote">
+              <p class="small">"Un giorno, Soun Tendo, chiama le
+              sue tre figlie dicendogli che una di loro dovrà essere
+              <em>iinazuke</em> (fidanzata) di Ranma, il figlio del
+              suo migliore amico. Al povero Soun però quasi prende un
+              colpo quando finalmente arriva Ranma che sembra essere
+              una ragazza. Si scopre presto che Ranma è invece
+              realmente un ragazzo, ma è stato colpito da una
+              maledizione che lo fa diventare una ragazza quando
+              viene bagnato dall'acqua fredda. L'acqua calda lo fa
+              invece tornare normale. Nabiki e Kasumi, scelgono
+              immediatamente Akane come iinazuke perché "lei odia i
+              ragazzi e Ranma è un ragazzo solo a metà". A Ranma non
+              piace Akane perché la considera violenta e "per niente
+              carina". Ad Akane invece non è per niente simpatico
+              Ranma, poiché l'ha battuta in un combattimento di arti
+              marziali (anche se Ranma era una ragazza durante quella
+              sfida), e mostra i suoi sentimenti sbattendo un tavolo
+              in testa a Ranma. Un meraviglioso inizio per una
+              bellissima storia d'amore".</p>
+              </blockquote>
+              <figcaption class="blockquote-footer">
+                tradotto da <em>"Anime Pocket Guide"</em> di
+                <em>Alan Takahashi</em>
+              </figcaption>
+            </figure>
+            <h2 class="mt-5">L'introduzione Narrata</h2>
             <p>Quella che segue, è l'introduzione narrata che
             precede gli episodi della serie Nettohen da 1 a 23
             nella quale, con poche parole, ci vengono introdotti i
             punti salienti della storia. In Italia, la narrazione è
             presente all'inizio di ogni videocassetta, mentre in tv
-            non veniva trasmessa.</p>
-            <p><strong>Titolo: Ranma-kun wa Hentai (Ranma-kun è
-            strano)</strong></p>
-            <p>Quella che segue, è l'introduzione narrata che
-            precede gli episodi della serie Nettohen da 1 a 23
-            nella quale, con poche parole, ci vengono introdotti i
-            punti salienti della storia. In Italia, la narrazione è
-            presente all'inizio di ogni videocassetta, mentre in tv
-            non veniva trasmessa.</p>
-            <p>&nbsp;</p>
-            <p><strong>Originale:</strong></p>
+            non veniva trasmessa.<br>
+            L'intro è stata rifatta in modo molto fedele anche nella serie 2024 a partire dall'Episodio 2, saltata nell'episodio 3
+            è stata poi reinserita regolarmente, cambiando stile ad ogni episodio: lo staff nuovo l'ha presa molto seriamente 😅 ed è
+            diventata un piccolo "evento" nell'episodio, cambiando ogni volta stile ed eventuali citazioni ad altre produzioni.</p>
+            <p class="small">Più sotto potete vedere il video e ascoltare/scaricare una versione audio nel caso il video venga rimosso da YT ^^;</p>
+            <h5>Titolo: Ranma-kun wa Hentai (Ranma-kun è
+            strano - o anche "un maniaco")</h5>
+            <h6>Originale:</h6>
             <p class="style2">(<strong>N.B.</strong> Le parti con
             un '*' davanti, sono quelle del narratore)</p>
-            <pre>       * Musabetsu kakuto Saotome-ryu Ranma-kun
-                "Hanase!"
-                "Chaaaa!"
-       * Tendo dojo no Akane-chan
-                "Chotto, nani yo!"
-       * Futari wa oyadoshi ga kimeta iinazuke
-                "Katte ni kimeru na yo!"
-                "Meiwaku da wa!"
-       * Soshite, Ranma-kun ni wa nayami no tane,
-                "Nani sunde!"
-       * Mizu o kaburu to onna no ko ni natchau n desu.</pre>
-            <p>&nbsp;</p>
-            <p><strong>Traduzione:</strong></p>
-            <pre>
-            * Ranma-kun della "Scuola di Lotta Indiscriminata Saotome"
-                "Andiamo!"
-                "Chaaaa!"
-       * Akane-chan della "Palestra Tendo"
-                "Cosa, aspetta!"
-       * I due sono stati fidanzati dai propri genitori
-                "Io non sono daccordo!"
-                "Mi dai fastidio!"
-       * E, una stranezza di Ranma-kun,
-                "Cosa stai facendo!"
-       * Quando gli si versa dell'acqua addosso, diventa una ragazza.
-                  </pre>
-            <p><br>
-            <strong>Per ascoltarla, click qui sotto:</strong></p>
+            <div class="m-3">
+              <em>* Musabetsu kakuto Saotome-ryu Ranma-kun</em><br>
+              <div class="mx-3">"Hanase!"</div>
+              <div class="mx-3">"Chaaaa!"</div>
+              <em>* Tendo dojo no Akane-chan</em><br>
+              <div class="mx-3">"Chotto, nani yo!"</div>
+              <em>* Futari wa oyadoshi ga kimeta iinazuke</em><br>
+              <div class="mx-3">"Katte ni kimeru na yo!"</div>
+              <div class="mx-3">"Meiwaku da wa!"</div>
+              <em>* Soshite, Ranma-kun ni wa nayami no tane,</em><br>
+              <div class="mx-3">"Nani sunde!"</div>
+              <em>* Mizu o kaburu to onna no ko ni natchau n desu.</em>
+            </div>
+            <h6>Traduzione:</strong></h6>
+            <div class="m-3">
+              <em>* Ranma-kun della "Scuola di Lotta Indiscriminata Saotome"</em><br>
+              <div class="mx-3">"Andiamo!"</div>
+              <div class="mx-3">"Chaaaa!"</div>
+              <em>* Akane-chan della "Palestra Tendo"</em><br>
+              <div class="mx-3">"Cosa, aspetta!"</div>
+              <em>* I due sono stati fidanzati dai propri genitori</em><br>
+              <div class="mx-3">"Io non sono daccordo!"</div>
+              <div class="mx-3">"Mi dai fastidio!"</div>
+              <em>* E, una stranezza di Ranma-kun,</em><br>
+              <div class="mx-3">"Cosa stai facendo!"</div>
+              <em>* Quando gli si versa dell'acqua addosso, diventa una ragazza.</em>
+            </div>
+            <p><strong>Per ascoltarla o scaricarla, click qui sotto sull'etichetta del CD:</strong></p>
             <p><a href="resources/audio/opening.wav" target=
-            "_blank"><img src="images/intro.gif" alt=
-            "Ascolta Introduzione" width="300" height="35" border=
+            "_blank"><img src="images/intro.gif" alt="Ascolta Introduzione" title="Ascolta Introduzione" width="300" height="35" border=
             "2"></a></p>
-            <p>&nbsp;</p><br>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="ft">
-      Grafica, impaginazione e testi sono © di <a href=
-      "mailto:inuyaksa@geocities.com?subject=Ranma%20e%20Akane">"Nibunnoichi"</a>
-      e non possono essere usati senza il consenso dell'autore.<br>
-      <span id="ft2">Personaggi e Nomi sono © Rumiko Takahashi /
-      Shogakukan / Kitty Film e sono usati a solo scopo
-      illustrativo e di recensione, senza alcun fine di
-      lucro.</span>
-    </div>
-  </div>
-</body>
-</html>
+            <div class="youtube-video-container">
+              <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hEzOZ_wMK34?si=gXDaXfYFoe5jpHLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+
+<?php require_once '_footer.php'; ?>
