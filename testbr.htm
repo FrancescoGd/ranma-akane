@@ -1,0 +1,170 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<Script>
+
+<!-- Activate Cloaking 
+
+//***************************************************************
+
+//
+
+//                        Restrictor I Example
+
+//
+
+//  Load a particular page  based on browser detection
+
+//
+
+//        by Tim Wallace   (timothy@essex1.com)
+
+//
+
+//***************************************************************
+
+
+
+var browser=navigator.appName + " " + navigator.appVersion;
+
+var getkey=browser.substring(0, 12);
+
+
+
+// Load page according to browser
+
+function loadPage()
+
+   {
+
+   if (browser.substring(0, 8)=="Netscape")
+
+      //{
+
+      //if (getkey=="Netscape 4.0")
+
+        // window.location="java47_a.htm";
+
+      //if (getkey=="Netscape 3.0")
+
+        // window.location="java47_b.htm";
+
+      //if (getkey=="Netscape 2.0")
+
+         window.location="netscape.html";
+
+      //}
+
+
+
+   if (browser.substring(0, 9)=="Microsoft")
+
+      window.location="explorer.html";
+
+
+
+   if ( (browser.substring(0, 8)!="Netscape") && (browser.substring(0, 9)!="Microsoft") )
+
+      window.location="netscape.html";
+
+   }
+
+
+
+// Function for viewing source code
+
+function WinOpen() 
+
+   {
+
+   alert('\nPage will load to full screen.\n\nUse View/Document Source from menu bar to view source.\n\nClose new window to return to this page. ');
+
+   window.open("js-res1.htm","DisplayWindow","menubar=yes,scrollbars=yes");
+
+   window.open("js-res1.htm","DisplayWindow","menubar=yes,scrollbars=yes");   // double for Macs
+
+   }
+
+// De-activate Cloaking -->
+
+</Script>
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>untitled</TITLE>
+</HEAD>
+
+<BODY>
+
+<FORM METHOD="POST" ENCTYPE="application/x-www-form-urlencoded" NAME="detect">
+<CENTER>
+<P> 
+<TABLE BORDER="3" WIDTH="150">
+	<TR>
+		<TD ALIGN="CENTER">
+			<P ALIGN="CENTER"><STRONG>Il tuo browser</STRONG>
+		</TD>
+	</TR>
+	<TR>
+		<TD></TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER">
+			<CENTER>
+			<P><INPUT TYPE="TEXT" NAME="display" SIZE="15" VALUE=" detecting...">
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<INPUT TYPE="button" VALUE="Carica la pagina corrispondente" onClick="loadPage()">
+</CENTER>
+<P><SCRIPT>
+
+<!-- Activate Cloaking 
+
+
+
+var browser=navigator.appName + " " + navigator.appVersion;
+
+var getkey=browser.substring(0, 12);
+
+
+
+if (browser.substring(0, 8)=="Netscape")
+
+   {
+
+   if (getkey=="Netscape 4.0")
+
+      document.forms[0].elements['display'].value="    "+getkey;
+
+   if (getkey=="Netscape 3.0")
+
+      document.forms[0].elements[0].value="    "+getkey;
+
+   if (getkey=="Netscape 2.0")
+
+      document.forms[0].elements[0].value=getkey;
+
+   }
+
+if (browser.substring(0, 9)=="Microsoft")
+
+   document.forms[0].elements[0].value="        Microsoft   IE";
+
+
+
+if ( (browser.substring(0, 8)!="Netscape") && (browser.substring(0, 9)!="Microsoft") )
+
+      document.forms[0].elements[0].value="undetermined";
+
+// De-activate Cloaking -->
+
+</SCRIPT>
+</FORM>
+
+</BODY>
+
+</HTML>

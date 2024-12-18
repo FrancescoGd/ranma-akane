@@ -13,7 +13,6 @@ a { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 8pt; font-weig
 a:hover {  color: #0010A8; text-decoration: underline}
 -->
 </STYLE>
-<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
 	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
 	<TITLE>Il Mondo di Ranma e Akane!</TITLE>
 </HEAD>
@@ -23,9 +22,11 @@ leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 <P>
 <P><IMG SRC="small_logo.gif" WIDTH="137" HEIGHT="125" ALIGN="BOTTOM" ALT="Ranma 1/2 - Logo" BORDER="0"></P>
-  <a href="relnotes.html" target="RightFrame">Site News</a><br>
+  
+<p><a href="relnotes.html" target="RightFrame">Site News</a><br>
+  <a href="search.html" target="RightFrame">Ricerca nel sito!!!</a> <br>
   <a href="intro.html" target="RightFrame">&quot;sono Ranma Saotome...&quot;</a><br>
-  <a href="chars.html" target="RightFrame">I Personaggi</a><br>
+  <a href="chars_main.html" target="RightFrame">I Personaggi</a><br>
   <a href="manga.html" target="RightFrame">Il manga</a><br>
   <a href="tvserie.html" target="RightFrame">La serie TV</a><br>
   <a href="movies.html" target="RightFrame">I Films</a><br>
@@ -33,9 +34,9 @@ leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
   <a href="faq_main.html" target="RightFrame">F.A.Q.</a><br>
   <a href="rumik.html" target="RightFrame">Rumiko Takahashi</a><br>
   <a href="misc.html" target="RightFrame">Di tutto un po'</a><br>
-  <a href="webrings.html" target="RightFrame">WebRings &amp; Links</a><br>
-<p><img src="panda_l.gif" width="30" height="27" align="BOTTOM" border="0"> <b><span class="testogenerico">Novit&agrave;:</span></b><br>
-  <a href="search.html">Ricerca nel sito!!!</a></p>
-</BODY>
-
-</HTML>
+  <a href="webrings.html" target="RightFrame">WebRings &amp; Links</a></p>
+<div align="center"> </div>
+<p><a href="http://www.takahashi.it" target="_blank"><img src="pics/bt_power.jpg" width="185" height="49" border="0" alt="Brigate Takahashi!"></a></p>
+<p><a href="http://digilander.iol.it/difensoridiukyo" target="_blank"><img src="pics/ukyobann.gif" width="185" height="46" border="0" alt="Ordine dei Difensori di Ukyo!"></a></p>
+<p><a href="http://www.cjb.net" target="_blank"><img src="pics/banner35.gif" width="113" height="31" border="0" alt="Get it"></a></p>
+</BODY></HTML>
