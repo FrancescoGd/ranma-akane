@@ -1,0 +1,3 @@
+Aggiunta una nuova sezione "Libri" al <b>RanMuseo</b><br />
+Ho inserito il famoso <b>Ranma Memorial Book</b> giapponese e l'americano <b>The Art of Ranma</b>.<br />
+Il RanMuseo &egrave; <a href="ranmuseo.php">in questa pagina</a>.

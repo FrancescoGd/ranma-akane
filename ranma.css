@@ -1,0 +1,285 @@
+body {
+    background:         #cc0000 url(images/page_bkg.gif);
+    margin-left:        0;
+    margin-top:         0;
+}
+
+a {
+    text-decoration:    none;
+    border-bottom:      1px dotted #fff;
+}
+
+a:hover {
+    text-decoration:    none;
+    background-color:   #ffffc0;
+    border-bottom:      1px solid #0d5a16;
+    color:              #0d5a16;
+}
+
+#maintext a {
+    color:              #e00000;
+    font-weight:        bold;
+	border-bottom:      1px dotted #e00000;
+}
+
+#maintext a:hover {
+    text-decoration:    none;
+    background-color:   #ffffc0;
+    border-bottom:      1px solid #0d5a16;
+    color:              #0d5a16;
+}
+
+h2 {
+	background-color: 	#f9f9f9;
+    border-top:         1px solid #c00000;
+    font-size:          1.5em;
+    font-variant:       small-caps;
+    text-align:         center;
+    color:              #0d5a16;
+    font-weight:        bold;
+    margin-top:         0.9em;
+    margin-bottom:      0.5em;
+	margin-left:		3em;
+	margin-right:		3em;
+}
+
+h3 {
+	font-size:			1.2em;
+	font-weight:		bold;
+	color:              #0d5a16;
+	text-align: 		center;
+	background-color:	#ffffc0;
+	border-top:         1px dotted #c00000;
+	width:				50%;
+	margin:				auto;
+}
+
+h4 {
+	font-size:			1.2em;
+	font-weight:		bold;
+	text-align:			left;
+	color:				#cc0000;
+	border-top:         1px solid #0d5a16;
+	padding-left:	    1em;
+	width:              70%;
+}
+
+strong {
+    font-weight:        bold;
+}                       
+                        
+em {                    
+    font-style:         italic;
+}                       
+
+td {
+	color:              #0000ff;
+}
+                        
+.ranmaeakane {          
+/*   position:          absolute; */
+     width:             200px; 
+     height:            270px; 
+     z-index:           1; 
+     left:              0; 
+     top:               0; 
+}                       
+                        
+.logo {                 
+/*   position:          absolute;*/
+     width:             100%;
+     height:            90px;
+     z-index:           1;
+     margin-top:        -440px;
+     text-align:        right;
+}                       
+                        
+.mainbody {             
+     background:        url(images/table_border_bkg.gif);
+/*   position:          absolute;*/
+     z-index:           2;
+     margin-left:       151px;
+     margin-top:        10px;
+     width:             80%;
+     padding:           14px;
+     text-align:        left;
+}
+
+.pagetitle {
+    font-family:        Arial Black, Helvetica, sans-serif;
+    font-size:          1.5em;
+    text-align:         left;
+    color:              #0d5a16;
+/*  font-weight:        bold;*/
+    background:         #ffffc0 url(images/site_title.gif) center right no-repeat;
+    margin-bottom:      0.5em;
+    padding:            0.1em;
+}                       
+                        
+.maintext {             
+    background:         #ffffff;
+    font-family:        Arial, Helvetica, sans-serif; 
+    font-size:          1em; 
+    color:              #0000ff;
+    top:                0;
+    left:               0;
+    width:              100%;
+}                       
+                        
+.pagecontent {
+	background:			#ffffff url(images/text_area_bkg.gif) bottom repeat-x;
+    padding:            0.3em;
+}
+
+#newspanel {
+	width: 100%;
+	margin:	0 auto;
+	text-align: center;
+}
+
+.highlight_section {
+    background-color:   #c0ffff;
+}
+
+.leftmenu {
+/*  position:           absolute;*/
+    color:              #fff;
+    width:              130px;
+    left:               0;
+    top:                290px;
+    text-align:         right;
+}                       
+                        
+.menu_header {          
+    color:              #ffffc0;
+    font-family:        Arial Black, Helvetica, sans-serif;
+    font-size:          1.2em;
+    text-align:         right;
+}                       
+                        
+.leftmenu li {          
+/*    float:              right;
+    width:              130px;*/
+    list-style-type:    none;
+    left:               0;
+	margin-left:		0;
+}
+
+.leftmenu li a {
+    color:              #fff;
+    font-family:        Tahoma, Helvetica, sans-serif;
+    font-size:          0.8em;
+    text-decoration:    none;
+}
+
+.leftmenu li a:hover {
+    text-decoration:    none;
+    background-color:   #ffffc0;
+    border-bottom:      1px solid #0d5a16;
+    color:              #0d5a16;
+}                       
+
+.citazione {
+    width:              70%;
+    font-style:         italic;
+    margin-left:        4em;
+    padding-left:       1em;
+    border-left:        1px dotted #cc0000;
+}
+
+.faq_reply {
+	margin-left:        2em;
+	width:				90%;
+	text-align:			justify;
+}
+
+
+#ft {
+    text-align:         center;
+    margin-top:         0.5em;
+    font-family:        Tahoma, Helvetica, sans-serif;
+    font-size:          0.9em;
+    font-weight:        bold;
+    color:              #fff;
+}                       
+                        
+#ft a {                 
+    color:              #fff;
+    font-style:         italic;
+}                       
+                        
+#ft a:hover {           
+    color:              #0d5a16;
+    font-style:         normal;
+}                       
+                        
+#ft2 {                  
+    font-size:          0.8em;
+    font-weight:        normal;
+}
+
+th {
+	font-weight: 		bold;
+	color: 				#0000ff;
+	background-color: 	#ffffc0;
+	text-align: 		center;
+	vertical-align: 	middle;
+}
+
+li {
+	list-style-type:	square;
+	margin-left:		3em;
+}
+
+.datatable {
+	background-color:	#ffffff;
+	border-top: 		1px solid #cdcdcd;
+	border-bottom: 		3px solid #cdcdcd;
+	padding: 			0.3em;
+	/*width:				80%;*/
+	margin-left:		2em;
+	margin-right:		2em;
+}
+
+.datatable td, .datatable th {
+	border-left:		1px solid #cdcdcd;
+	border-right:		1px solid #cdcdcd;
+	padding: 			2px;
+}
+
+.datatable tr {
+	border-top: 1px dotted #cecece;
+}
+
+.datatable tr.even {
+    background-color:   #edf3fe;
+}
+
+.datatable-caption {
+	color:				#0d5a16;
+	font-weight:		bold;
+	font-size:			1.2em;
+	padding-bottom:		0.5em;
+	padding-top:		0.5em;
+	background-color:	#ffffc0;
+}
+
+.datatable-text {
+	padding:			0.5em;
+}
+
+.charimage {
+	border:	 			1px solid #cdcdcd;
+}
+
+.backbutton {
+	display: 			block;
+	line-height:		30px;
+	background:			#c0ffff url(images/panda_r.gif) left center no-repeat;
+	padding-left:		35px;
+	border-top:         1px solid #c00000;
+}
+
+.backbutton a {
+	line-height:		30px;
+}
